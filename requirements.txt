@@ -1,0 +1,5 @@
+You need:
+  Python 3.6+
+  The package that named Aiogram which helps to create telegram bots #pip install aiogram
+  The package that named time that helps to manage time 
+  And finally server
